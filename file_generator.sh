@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#NOTE: run this file with the parameter: {FOLDER_WITH_REPOS}/{NAME_PORT_FILE}.txt
+
 # Check if an input file is provided
 if [ $# -eq 0 ]; then
   echo "Usage: $0 <input_file>"
