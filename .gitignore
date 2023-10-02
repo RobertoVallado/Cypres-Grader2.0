@@ -1,1 +1,8 @@
-integration/*
+node_modules/*
+cypress/e2e/2/
+cypress/e2e/3/
+cypress/e2e/4/
+cypress/e2e/5/
+cypress/e2e/6/
+cypress/e2e/7/
+cypress/e2e/8/
