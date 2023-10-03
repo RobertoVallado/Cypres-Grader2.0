@@ -51,7 +51,7 @@ Before using this script, make sure you have the following:
 
 4. Make the Bash script executable:
 ```bash
-chmod +x grade_students.sh
+chmod +x run_cygrader.sh
 
 ```
 
