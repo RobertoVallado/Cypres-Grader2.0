@@ -3,12 +3,14 @@
   "version": "1.0.0",
   "description": "This repository contains an automated grading system built with [Cypress](https://www.cypress.io/) and Docker, designed for grading student repositories.",
   "main": "index.js",
+  "screenshots": false,
+  "screenshot": false,
   "reporter": "mochawesome",
+  "screenshotOnRunFailure": false,
   "reporterOptions": {
     "reportDir": "cypress/grades",
     "overwrite": false
     },
-  "screenshots": false,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

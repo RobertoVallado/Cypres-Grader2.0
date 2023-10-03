@@ -1,4 +1,6 @@
 node_modules/*
+cypress/screenshots/*
+grades/*
 cypress/e2e/2/
 cypress/e2e/3/
 cypress/e2e/4/
@@ -6,3 +8,6 @@ cypress/e2e/5/
 cypress/e2e/6/
 cypress/e2e/7/
 cypress/e2e/8/
+
+ports-part1.txt
+ports-part2.txt
